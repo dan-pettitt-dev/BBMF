@@ -1,0 +1,17 @@
+{
+  "name": "bbmotorsportfabrication",
+  "version": "1.0.0",
+  "description": "Repo for BB Motorsport Fabrication website (Ben Beaseley)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dan Pettitt",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^7.0.1",
+    "sass": "^1.77.2",
+    "terser": "^5.31.0"
+  }
+}
